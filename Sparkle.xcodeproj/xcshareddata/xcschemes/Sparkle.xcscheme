@@ -101,7 +101,7 @@
       shouldUseLaunchSchemeArgsEnv = "YES"
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
-      buildConfiguration = "Release"
+      buildConfiguration = "Release (GC dual-mode; 10.5+)"
       ignoresPersistentStateOnLaunch = "YES"
       debugDocumentVersioning = "YES">
    </ProfileAction>
@@ -109,7 +109,7 @@
       buildConfiguration = "Debug">
    </AnalyzeAction>
    <ArchiveAction
-      buildConfiguration = "Release"
+      buildConfiguration = "Release (GC dual-mode; 10.5+)"
       revealArchiveInOrganizer = "YES">
    </ArchiveAction>
 </Scheme>
